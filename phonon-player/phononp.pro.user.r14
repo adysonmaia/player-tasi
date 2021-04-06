@@ -1,0 +1,432 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString" >phononp.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >phononp</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >debug</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+   <value key="buildDirectory" type="QString" >/home/caio/qt/Phononp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >release</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-aGK90FYeAM,guid=67ce0a913ccbadec21b494f34afc88db</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3522</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-hXvExh/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-5adtpu/S.gpg-agent:3598:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=500</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3695</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AGENT_PID=3597</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-ztPnHg3534/agent.3534</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/caio/.Xauthority</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258064090.77403-1171012270</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/home/caio/qt/Phononp/phononp.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >linux-g++</value>
+    <value type="QString" >-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/home/caio/qtsdk-2009.03/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >false</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/caio/qt/Phononp</value>
+   <value key="buildConfiguration" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-aGK90FYeAM,guid=67ce0a913ccbadec21b494f34afc88db</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3522</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-hXvExh/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-5adtpu/S.gpg-agent:3598:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=500</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3695</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AGENT_PID=3597</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-ztPnHg3534/agent.3534</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/caio/.Xauthority</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258064090.77403-1171012270</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >debug</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/caio/qt/Phononp</value>
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-aGK90FYeAM,guid=67ce0a913ccbadec21b494f34afc88db</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3522</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-hXvExh/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-5adtpu/S.gpg-agent:3598:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=500</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3695</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AGENT_PID=3597</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-ztPnHg3534/agent.3534</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/caio/.Xauthority</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258064090.77403-1171012270</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >clean</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/caio/qt/Phononp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GRKEydWjy0,guid=2b6500814ced019d67230f704b095ad0</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3533</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-8eCsBU/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-26sibu/S.gpg-agent:3609:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=500</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3706</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AGENT_PID=3608</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-UQcyOc3546/agent.3546</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/caio/.Xauthority</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258904271.721196-1264239678</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/home/caio/qt/Phononp/phononp.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >linux-g++</value>
+    <value type="QString" >-r</value>
+    <value type="QString" >CONFIG+=debug_and_release</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/home/caio/qtsdk-2009.03/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >false</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/caio/qt/Phononp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GRKEydWjy0,guid=2b6500814ced019d67230f704b095ad0</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3533</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-8eCsBU/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-26sibu/S.gpg-agent:3609:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=500</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3706</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AGENT_PID=3608</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-UQcyOc3546/agent.3546</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/caio/.Xauthority</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258904271.721196-1264239678</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >debug</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/caio/qt/Phononp</value>
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GRKEydWjy0,guid=2b6500814ced019d67230f704b095ad0</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3533</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-8eCsBU/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-26sibu/S.gpg-agent:3609:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=500</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3706</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AGENT_PID=3608</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-UQcyOc3546/agent.3546</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/caio/.Xauthority</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258904271.721196-1264239678</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >clean</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/caio/qt/Phononp</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >debug</value>
+   <value type="QString" >release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray" >System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>

@@ -1,0 +1,407 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-Arguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-Executable</variable>
+  <value type="QString" ></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >Custom Executable</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserName</variable>
+  <value type="QString" ></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-WorkingDirectory</variable>
+  <value type="QString" >$BUILDDIR</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >ProjectExplorer.CustomExecutableRunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+   <value key="buildDirectory" type="QString" >/home/caio/qt/Phononp/plugins/contextPlugin</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+<<<<<<< .mine
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-2wtYFUy1S7,guid=c66829ac53c797036ccd37c14b0833f4</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+=======
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GRKEydWjy0,guid=2b6500814ced019d67230f704b095ad0</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+>>>>>>> .r14
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+<<<<<<< .mine
+    <value type="QString" >DISPLAY=:0</value>
+    <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-EEoqN3/S.gpg-agent:2525:1</value>
+    <value type="QString" >GS_LIB=/home/adyson/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/adyson/.gtkrc-2.0:/home/adyson/.gtkrc-2.0-kde4:/home/adyson/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/adyson/.gtkrc::/home/adyson/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/adyson</value>
+=======
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3533</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-8eCsBU/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-26sibu/S.gpg-agent:3609:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+>>>>>>> .r14
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=1000</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+<<<<<<< .mine
+    <value type="QString" >LANG=pt_BR.UTF-8</value>
+    <value type="QString" >LANGUAGE=pt_BR:pt:en</value>
+    <value type="QString" >LD_LIBRARY_PATH=/usr/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=adyson</value>
+    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/adyson/Documentos</value>
+    <value type="QString" >QTDIR=/usr</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/adyson/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/adyson-laptop:@/tmp/.ICE-unix/2617,unix/adyson-laptop:/tmp/.ICE-unix/2617</value>
+=======
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3706</value>
+>>>>>>> .r14
+    <value type="QString" >SHELL=/bin/bash</value>
+<<<<<<< .mine
+    <value type="QString" >SHLVL=0</value>
+    <value type="QString" >SSH_AGENT_PID=2524</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-amuQJy2485/agent.2485</value>
+    <value type="QString" >USER=adyson</value>
+=======
+    <value type="QString" >SSH_AGENT_PID=3608</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-UQcyOc3546/agent.3546</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+>>>>>>> .r14
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+<<<<<<< .mine
+    <value type="QString" >XDG_DATA_DIRS=/usr/share:/usr/share:/usr/local/share</value>
+    <value type="QString" >XDG_SESSION_COOKIE=9cef8fb4fd69a405b3ddfb4a4aecf21b-1258828787.580544-1711226235</value>
+    <value type="QString" >XDM_MANAGED=method=classic</value>
+=======
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258904271.721196-1264239678</value>
+>>>>>>> .r14
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/home/adyson/Documentos/player-tasi/plugins/contextPlugin/contextPlugin.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >/usr/share/qt4/mkspecs/linux-g++</value>
+    <value type="QString" >-r</value>
+    <value type="QString" >CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/adyson/Documentos/player-tasi/plugins/contextPlugin</value>
+   <value key="buildConfiguration" type="int" >2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+<<<<<<< .mine
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-2wtYFUy1S7,guid=c66829ac53c797036ccd37c14b0833f4</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+=======
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GRKEydWjy0,guid=2b6500814ced019d67230f704b095ad0</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+>>>>>>> .r14
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+<<<<<<< .mine
+    <value type="QString" >DISPLAY=:0</value>
+    <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-EEoqN3/S.gpg-agent:2525:1</value>
+    <value type="QString" >GS_LIB=/home/adyson/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/adyson/.gtkrc-2.0:/home/adyson/.gtkrc-2.0-kde4:/home/adyson/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/adyson/.gtkrc::/home/adyson/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/adyson</value>
+=======
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3533</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-8eCsBU/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-26sibu/S.gpg-agent:3609:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+>>>>>>> .r14
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=1000</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+<<<<<<< .mine
+    <value type="QString" >LANG=pt_BR.UTF-8</value>
+    <value type="QString" >LANGUAGE=pt_BR:pt:en</value>
+    <value type="QString" >LD_LIBRARY_PATH=/usr/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=adyson</value>
+    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/adyson/Documentos</value>
+    <value type="QString" >QTDIR=/usr</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/adyson/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/adyson-laptop:@/tmp/.ICE-unix/2617,unix/adyson-laptop:/tmp/.ICE-unix/2617</value>
+=======
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3706</value>
+>>>>>>> .r14
+    <value type="QString" >SHELL=/bin/bash</value>
+<<<<<<< .mine
+    <value type="QString" >SHLVL=0</value>
+    <value type="QString" >SSH_AGENT_PID=2524</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-amuQJy2485/agent.2485</value>
+    <value type="QString" >USER=adyson</value>
+=======
+    <value type="QString" >SSH_AGENT_PID=3608</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-UQcyOc3546/agent.3546</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+>>>>>>> .r14
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+<<<<<<< .mine
+    <value type="QString" >XDG_DATA_DIRS=/usr/share:/usr/share:/usr/local/share</value>
+    <value type="QString" >XDG_SESSION_COOKIE=9cef8fb4fd69a405b3ddfb4a4aecf21b-1258828787.580544-1711226235</value>
+    <value type="QString" >XDM_MANAGED=method=classic</value>
+=======
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258904271.721196-1264239678</value>
+>>>>>>> .r14
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/adyson/Documentos/player-tasi/plugins/contextPlugin</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+<<<<<<< .mine
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-2wtYFUy1S7,guid=c66829ac53c797036ccd37c14b0833f4</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+=======
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GRKEydWjy0,guid=2b6500814ced019d67230f704b095ad0</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+>>>>>>> .r14
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+<<<<<<< .mine
+    <value type="QString" >DISPLAY=:0</value>
+    <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-EEoqN3/S.gpg-agent:2525:1</value>
+    <value type="QString" >GS_LIB=/home/adyson/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/adyson/.gtkrc-2.0:/home/adyson/.gtkrc-2.0-kde4:/home/adyson/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/adyson/.gtkrc::/home/adyson/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/adyson</value>
+=======
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_LANG=pt_BR.utf8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_KEYRING_PID=3533</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-8eCsBU/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-26sibu/S.gpg-agent:3609:1</value>
+    <value type="QString" >GS_LIB=/home/caio/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/caio/.gtkrc-2.0:/home/caio/.gtkrc-2.0-kde4:/home/caio/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/caio/.gtkrc::/home/caio/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/caio</value>
+>>>>>>> .r14
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=1000</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+<<<<<<< .mine
+    <value type="QString" >LANG=pt_BR.UTF-8</value>
+    <value type="QString" >LANGUAGE=pt_BR:pt:en</value>
+    <value type="QString" >LD_LIBRARY_PATH=/usr/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=adyson</value>
+    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/adyson/Documentos</value>
+    <value type="QString" >QTDIR=/usr</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/adyson/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/adyson-laptop:@/tmp/.ICE-unix/2617,unix/adyson-laptop:/tmp/.ICE-unix/2617</value>
+=======
+    <value type="QString" >LANG=pt_BR.utf8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/caio/qtcreator-1.2.1/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=caio</value>
+    <value type="QString" >PATH=/home/caio/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/caio/Documentos</value>
+    <value type="QString" >QTDIR=/home/caio/qtsdk-2009.03/qt</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/caio/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/silver:/tmp/.ICE-unix/3706</value>
+>>>>>>> .r14
+    <value type="QString" >SHELL=/bin/bash</value>
+<<<<<<< .mine
+    <value type="QString" >SHLVL=0</value>
+    <value type="QString" >SSH_AGENT_PID=2524</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-amuQJy2485/agent.2485</value>
+    <value type="QString" >USER=adyson</value>
+=======
+    <value type="QString" >SSH_AGENT_PID=3608</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-UQcyOc3546/agent.3546</value>
+    <value type="QString" >USER=caio</value>
+    <value type="QString" >USERNAME=caio</value>
+>>>>>>> .r14
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+<<<<<<< .mine
+    <value type="QString" >XDG_DATA_DIRS=/usr/share:/usr/share:/usr/local/share</value>
+    <value type="QString" >XDG_SESSION_COOKIE=9cef8fb4fd69a405b3ddfb4a4aecf21b-1258828787.580544-1711226235</value>
+    <value type="QString" >XDM_MANAGED=method=classic</value>
+=======
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=28a4601c678f86cd3892f0c24a53e4e5-1258904271.721196-1264239678</value>
+>>>>>>> .r14
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >clean</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/adyson/Documentos/player-tasi/plugins/contextPlugin</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="buildConfiguration" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >Debug</value>
+   <value type="QString" >Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray" >UTF-8</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/phononp/!svn/ver/18/plugins/contextPlugin
+END
+contextPlugin.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/phononp/!svn/ver/14/plugins/contextPlugin/contextPlugin.pro.user
+END
+contextPlugin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/phononp/!svn/ver/2/plugins/contextPlugin/contextPlugin.pro
+END
+moc_contextPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/phononp/!svn/ver/14/plugins/contextPlugin/moc_contextPlugin.cpp
+END
+contextPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/phononp/!svn/ver/18/plugins/contextPlugin/contextPlugin.cpp
+END
+contextPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/phononp/!svn/ver/14/plugins/contextPlugin/contextPlugin.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/phononp/!svn/ver/14/plugins/contextPlugin/Makefile
+END

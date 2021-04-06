@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/phononp/!svn/ver/1/qtc-gdbmacros
+END
+gdbmacros.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/phononp/!svn/ver/1/qtc-gdbmacros/gdbmacros.pro
+END
+Makefile.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/phononp/!svn/ver/1/qtc-gdbmacros/Makefile.Debug
+END
+gdbmacros.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/phononp/!svn/ver/1/qtc-gdbmacros/gdbmacros.cpp
+END
+Makefile.Release
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/phononp/!svn/ver/1/qtc-gdbmacros/Makefile.Release
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/phononp/!svn/ver/1/qtc-gdbmacros/Makefile
+END

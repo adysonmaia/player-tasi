@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/phononp/!svn/ver/18
+END
+pluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/phononp/!svn/ver/11/pluginManager.h
+END
+phononp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/phononp/!svn/ver/14/phononp.pro
+END
+phononp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/phononp/!svn/ver/14/phononp
+END
+scanAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/phononp/!svn/ver/6/scanAlgorithm.h
+END
+scanCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/phononp/!svn/ver/3/scanCollection.cpp
+END
+scanCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/phononp/!svn/ver/3/scanCollection.h
+END
+playlistTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/phononp/!svn/ver/18/playlistTable.cpp
+END
+ContextInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/phononp/!svn/ver/18/ContextInterface.h
+END
+collectionTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/phononp/!svn/ver/17/collectionTree.cpp
+END
+Makefile.Release
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/phononp/!svn/ver/14/Makefile.Release
+END
+phononp.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/phononp/!svn/ver/14/phononp.pro.user
+END
+playlistTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/phononp/!svn/ver/1/playlistTable.h
+END
+collectionTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/phononp/!svn/ver/6/collectionTree.h
+END
+configureWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/phononp/!svn/ver/2/configureWidget.ui
+END
+Makefile.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/phononp/!svn/ver/14/Makefile.Debug
+END
+phononp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/phononp/!svn/ver/18/phononp.cpp
+END
+phononp.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/phononp/!svn/ver/7/phononp.qrc
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/phononp/!svn/ver/14/main.cpp
+END
+pluginManager.ui
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/phononp/!svn/ver/11/pluginManager.ui
+END
+phononp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/phononp/!svn/ver/17/phononp.hpp
+END
+pluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/phononp/!svn/ver/17/pluginManager.cpp
+END
+scanAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/phononp/!svn/ver/6/scanAlgorithm.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/phononp/!svn/ver/14/Makefile
+END
